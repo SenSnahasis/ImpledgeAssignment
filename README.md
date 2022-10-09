@@ -1,6 +1,6 @@
 # ImpledgeAssignment
 Overview:
-	Using this code we find out the longest word and second longest word. 
+	Using this code we find out the longest word and the second longest word. 
 
 Approach:
 	I took a list and add all the words. after sorting we can easily find out the last word.
